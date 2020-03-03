@@ -1,0 +1,72 @@
+
+.topnav a {
+  float: left;
+  color: #F2F2F2;
+  text-align: center;
+  padding: 44px 16px;
+  text-decoration: none;
+  font-size: 40px;
+  display: flex;
+  margin-left: 15%;
+}
+.topnav {
+  overflow: hidden;
+  background-color:gray;
+}
+#para{
+  font-size: 1.5em;
+}
+.topnav a:hover {
+  background-color:gray;
+  color: black;
+  height: 120%;
+  }
+  #img{
+    border-radius: 100px;
+    margin-left: 40%;
+  }
+  body{
+    background-image: url("https://bit.ly/32Awozl");
+    background-repeat: repeat;
+  }
+
+    p1{
+    background-color: gray;
+    margin-left: 30%;
+    font-size: 25px;
+  }
+
+  h1{
+    margin-left: 30%;
+    /* text-decoration-color: indigo; */
+    font-size: 40px;
+  }
+  h2{
+    margin-left: 30%;
+    font-family: 'Metal Mania', cursive;
+    font-weight: 500;
+    font-size: 80px;
+
+    
+    /* text-decoration-color: indigo; */
+  }
+
+  #form{
+    text-align: center;
+    /* border-radius: 10px;
+    width: 50px;
+    height: 20px;  */
+    background-color:burlywood;
+    text-decoration-color: white;
+
+  }
+  .contacts{
+    text-align: center;
+  }
+  #form textarea{
+    background-color:burlywood;
+  }
+  #about{
+    text-align: center;
+    background-color: blanchedalmond;
+  }
