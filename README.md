@@ -5,7 +5,7 @@ A web page for pizza.
 ## AUTHOR:
 Ntinyari Mutegi
 ## SETUP
-Git clone the live link()dowload the file then cd the project's folder<br>to the files.
+Git clone the live link(https://edithntinyari.github.io/pizza/)dowload the file then cd the project's folder<br>to the files.
 ## BDD
 INPUTS         DESCRIPTION
 Pizza size      big,small...
